@@ -19,3 +19,5 @@ if user_num == 1:
     print('添加')
 elif user_num == 2:
     print('删除')
+elif user_num == 3:
+    print('修改')
